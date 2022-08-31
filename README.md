@@ -11,6 +11,13 @@ Application objectives:
 3 Learn the relationship between numbers in an automatic and simple way
 4 Helps motivate the child and strengthens his interest in learning numbers
 5 Test his mastery of learning numbers
+_________
+The following pictures are pictures of the application interfaces with their explanation: 
 
-
+![	Program InterFace:](https://github.com/RdyhALzbydy/Project-Alkhawarizmiu-Alsaghir/blob/ba1f0fd762632206c4a54df3e020993c5e701daf/Project%20Alkhawarizmiu%20Alsaghir/Project%20Alkhawarizmiu%20Alsaghir/Images/1.png?raw=true) 
+![	Program InterFace:](https://github.com/RdyhALzbydy/Project-Alkhawarizmiu-Alsaghir/blob/ba1f0fd762632206c4a54df3e020993c5e701daf/Project%20Alkhawarizmiu%20Alsaghir/Project%20Alkhawarizmiu%20Alsaghir/Images/2.png?raw=true)
+![	Program InterFace:](https://github.com/RdyhALzbydy/Project-Alkhawarizmiu-Alsaghir/blob/ba1f0fd762632206c4a54df3e020993c5e701daf/Project%20Alkhawarizmiu%20Alsaghir/Project%20Alkhawarizmiu%20Alsaghir/Images/3.png?raw=true) 
+![	Program InterFace:](https://github.com/RdyhALzbydy/Project-Alkhawarizmiu-Alsaghir/blob/ba1f0fd762632206c4a54df3e020993c5e701daf/Project%20Alkhawarizmiu%20Alsaghir/Project%20Alkhawarizmiu%20Alsaghir/Images/4.png?raw=true)
+![	Program InterFace:](https://github.com/RdyhALzbydy/Project-Alkhawarizmiu-Alsaghir/blob/ba1f0fd762632206c4a54df3e020993c5e701daf/Project%20Alkhawarizmiu%20Alsaghir/Project%20Alkhawarizmiu%20Alsaghir/Images/5.png?raw=true) 
+![	Program InterFace:](https://github.com/RdyhALzbydy/Project-Alkhawarizmiu-Alsaghir/blob/ba1f0fd762632206c4a54df3e020993c5e701daf/Project%20Alkhawarizmiu%20Alsaghir/Project%20Alkhawarizmiu%20Alsaghir/Images/6.png?raw=true) 
 
